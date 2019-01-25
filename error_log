@@ -1,0 +1,2 @@
+[05-Jan-2019 16:04:32 Asia/Singapore] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/tamigssw/wholesalesbd.com/pos/system/database/DB_driver.php on line 1857
+[05-Jan-2019 16:05:23 Asia/Singapore] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/tamigssw/wholesalesbd.com/pos/system/database/DB_query_builder.php on line 2556
